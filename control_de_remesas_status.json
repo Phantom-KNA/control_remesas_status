@@ -1,104 +1,58 @@
 {
-  "logos": [
-    {
-      "url": "https://image.tmdb.org/t/p/original/oWcq3FA8JsHyfjiWGDVJ5tahSH9.png",
-      "aspectRatio": 6.555,
-      "width": 780
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/6Pdq7hLfWyuuA83IwwWbjlXfJGc.png",
-      "aspectRatio": 6.892,
-      "width": 3832
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/9cEHky9ypMGSAeeorwne9VMfE19.png",
-      "aspectRatio": 3.386,
-      "width": 4270
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/46EOU3o8FQ1Up9hagnwmycdRHPj.png",
-      "aspectRatio": 3.386,
-      "width": 4270
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/1Pq3WPPYR3USvzJZcqOHE3k4jkq.png",
-      "aspectRatio": 1.672,
-      "width": 485
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/g8eZV3Z8ZIAJPVopyDbSMglet5H.png",
-      "aspectRatio": 5.342,
-      "width": 780
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/7GbboH9Ree8kBF8Hc0lca3MLJwK.png",
-      "aspectRatio": 6.038,
-      "width": 791
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/cYFe8o785ytQ469BPycOjXXY0ni.png",
-      "aspectRatio": 2.728,
-      "width": 791
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/hikEC0ZLxqRlaWFNi4LgZYrL3AN.png",
-      "aspectRatio": 4.756,
-      "width": 780
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/fmTbPqJ2i1IQerSuNc1dr4wsznp.png",
-      "aspectRatio": 1.507,
-      "width": 452
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/qqXSR6u1xAv239ttla6ZFO7NeEi.png",
-      "aspectRatio": 2.914,
-      "width": 778
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/7G6h8ad96uezpxaEuCoLXbAz8RH.png",
-      "aspectRatio": 3.98,
-      "width": 800
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/vo9z7IY9GYoYMLymnkJGlSpiec5.png",
-      "aspectRatio": 2.728,
-      "width": 791
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/mbuMRStsJlkLGOffVHftXUAStXH.png",
-      "aspectRatio": 2.659,
-      "width": 771
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/zT7FyYa3jNsDEo6CX6w9gXd6JJX.png",
-      "aspectRatio": 2.97,
-      "width": 799
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/tLExoevUrqFdQpabbJyD0nqaSjC.png",
-      "aspectRatio": 6.627,
-      "width": 782
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/kKwGXNNsyXXpijWQjbljBDseAcc.png",
-      "aspectRatio": 6.228,
-      "width": 791
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/3WdSogrpDOj83ZHq6645w228gNC.png",
-      "aspectRatio": 6.228,
-      "width": 791
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/QobPlw97XtOcETO4uQX3k9zOU9.png",
-      "aspectRatio": 6.228,
-      "width": 791
-    },
-    {
-      "url": "https://image.tmdb.org/t/p/original/6FAQ4Bi7LBJ16C0irNJrVWp1P6M.png",
-      "aspectRatio": 3.386,
-      "width": 4270
+    "development_status" : [{
+        "title":"Rev.15",
+        "description":"Inicio de proyecto Contro de Remesas FRONTELA ENVIOS"
+    }, {
+        "title":"Rev.35", 
+        "description":"Completado la sección de Envios"
+    }, {
+        "title":"Rev.61", 
+        "description":"Completada la sección de Empleados, se han corregido algunos errores en la tabla de envios"
+    }, {
+        "title":"Rev.69", 
+        "description":"Completado la sección de Empleados"
+    }, {
+        "title":"Rev.79", 
+        "description":"Completado la sección de Clientes USA"
+    }, {
+        "title":"Rev.83", 
+        "description":"Completado la sección de Cliente Cuba"
+    }, {
+        "title":"Rev.96", 
+        "description":"Completado la sección de Cuentas"
+    }, {
+        "title":"Rev.102", 
+        "description":"Completado la opción de editar y borrar en la sección de envios"
+    }, {
+        "title":"Rev.126", 
+        "description":"Completado la opción de editar y borrar en la sección de Empleados"
+    }, {
+        "title":"Rev.131", 
+        "description":"Completado la opción de editar y borrar en la sección de Clientes Usa"
+    }, {
+        "title":"Rev.140", 
+        "description":"Completado la opción de editar y borrar en la sección de Clientes Cuba"
     }
-  ]
+    , {
+        "title":"Rev.146", 
+        "description":"Completado la opción de editar y borrar en la sección de Cuentas"
+    }
+    , {
+        "title":"Rev.160", 
+        "description":"Completado la opción de filtrado en la sección de Cuentas"
+    }
+    , {
+        "title":"Rev.182", 
+        "description":"Se corrigio algunos errores de visualización para dispositivos de menor tamaño"
+    }
+    , {
+        "title":"TODO(Por hacer)", 
+        "description":"Sección de Compras. Sección de Ventas. Sección de Inventario."
+    }
+    , {
+        "title":"Waiting for imformation(Esperando información del proveedor)", 
+        "description":"Sección de Reportes. Sección de Ajustes. Otras formulas asociadas al manejo de la seccion de envío, entre otros."
+    }]
+
+
 }
