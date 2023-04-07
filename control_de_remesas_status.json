@@ -1,5 +1,6 @@
-{
-    "development_status" : [{
+﻿{
+    "development_status" : [
+	{
         "title":"Rev.15",
         "description":"Inicio de proyecto Contro de Remesas FRONTELA ENVIOS"
     }, {
@@ -52,7 +53,8 @@
     , {
         "title":"Waiting for imformation(Esperando información del proveedor)", 
         "description":"Sección de Reportes. Sección de Ajustes. Otras formulas asociadas al manejo de la seccion de envío, entre otros."
-    }]
-
+    }
+	]
+    
 
 }
