@@ -1,21 +1,72 @@
 [
     {
-        "teacherId":1,
-        "firstName":"Clare",
-        "lastName":"Anyanwu",
-        "birthYear":1987,
-        "level":8,
-        "courses":
+        
+        "status":
         [
             {
-                "name":"Biology",
-                "creditUnits":3,
-                "numberOfStudents":42
+                "title":"Rev.15",
+        "description":"Inicio de proyecto Contro de Remesas FRONTELA ENVIOS"
+                
             },
             {
-                "name":"Basic Science",
-                "creditUnits":4,
-                "numberOfStudents":35
+                "title":"Rev.35", 
+        "description":"Completado la sección de Envios"
+            },
+			{
+                "title":"Rev.61", 
+        "description":"Completada la sección de Empleados, se han corregido algunos errores en la tabla de envios"
+            },
+			{
+                "title":"Rev.69", 
+        "description":"Completado la sección de Empleados"
+            },
+			{
+                "title":"Rev.79", 
+        "description":"Completado la sección de Clientes USA"
+            },
+			{
+                "title":"Rev.83", 
+        "description":"Completado la sección de Cliente Cuba"
+            },
+			{
+                "title":"Rev.96", 
+        "description":"Completado la sección de Cuentas"
+            },
+			{
+                "title":"Rev.102", 
+        "description":"Completado la opción de editar y borrar en la sección de envios"
+            },
+			{
+                "title":"Rev.126", 
+        "description":"Completado la opción de editar y borrar en la sección de Empleados"
+            },
+			{
+                "title":"Rev.131", 
+        "description":"Completado la opción de editar y borrar en la sección de Clientes Usa"
+            },
+			{
+                "title":"Rev.140", 
+        "description":"Completado la opción de editar y borrar en la sección de Clientes Cuba"
+            },
+			{
+                "title":"Rev.146", 
+        "description":"Completado la opción de editar y borrar en la sección de Cuentas"
+            },
+			{
+                "title":"Rev.160", 
+        "description":"Completado la opción de filtrado en la sección de Cuentas"
+            },
+			{
+                "title":"Rev.182", 
+        "description":"Se corrigio algunos errores de visualización para dispositivos de menor tamaño"
+            },
+			{
+                "title":"TODO(Por hacer)", 
+        "description":"Sección de Compras. Sección de Ventas. Sección de Inventario."
+            },
+			{
+                "title":"Waiting for imformation(Esperando información del proveedor)", 
+        "description":"Sección de Reportes. Sección de Ajustes. Otras formulas asociadas al manejo de la seccion de envío, entre otros."
             }
         ]
     }
