@@ -3,6 +3,11 @@
         
         "status":
         [
+	    {
+                "title":"Versión Beta",
+                "description":"07-04-23"
+                
+            },
             {
                 "title":"Rev.15",
         "description":"Inicio de proyecto Contro de Remesas FRONTELA ENVIOS"
@@ -62,10 +67,10 @@
             },
 			{
                 "title":"TODO(Por hacer)", 
-        "description":"Sección de Compras. Sección de Ventas. Sección de Inventario."
+        "description":"Sección de Compras. Sección de Ventas. Sección de Inventario. Menu de filtrado en algunas seccion necesarias."
             },
 			{
-                "title":"Waiting for imformation(Esperando información del proveedor)", 
+                "title":"Esperando información del proveedor", 
         "description":"Sección de Reportes. Sección de Ajustes. Otras formulas asociadas al manejo de la seccion de envío, entre otros."
             }
         ]
